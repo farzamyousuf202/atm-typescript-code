@@ -1,0 +1,22 @@
+{
+  "name": "shaka-laka-boom-atm",
+  "version": "1.0.0",
+  "description": "\"atm machine with typescript\"",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "\"farzam yousuf\"",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.17",
+    "undici-types": "^5.26.5"
+  }
+}
